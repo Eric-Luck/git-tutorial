@@ -1,2 +1,5 @@
 # Git turorial
-- feature-A
+
+
+  - feature-A
+  - fix-B
